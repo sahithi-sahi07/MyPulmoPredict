@@ -1,7 +1,7 @@
 # PulmoPredict
 
 PulmoPredict is a deep learning-based web application designed to assist in the early detection of lung cancer. By analyzing CT scan images, the application classifies them into different categories: adenocarcinoma, large cell carcinoma, squamous cell carcinoma, or normal.
-
+## This project was developed and submitted for MediHacks.
 ## Table of Contents
 
 - [Inspiration](#inspiration)
@@ -13,8 +13,7 @@ PulmoPredict is a deep learning-based web application designed to assist in the 
 - [Accomplishments](#accomplishments)
 - [What I Learned](#what-i-learned)
 - [Future Plans](#future-plans)
-- [Contributing](#contributing)
-- [License](#license)
+- [Submission for MediHacks](#submission-for-medihacks)
 - [Contact](#contact)
 
 ## Inspiration
@@ -35,7 +34,7 @@ The inspiration for PulmoPredict stemmed from the high rates of lung cancer worl
 - **Database**: SQLite
 - **Machine Learning**: TensorFlow, Python (Trained model uploaded)
 
-##Note: The backend and the trained model are not included in the repository due to size constraints. Please contact me for access to these components. ##
+## Note: The backend and the trained model are not included in the repository due to size constraints. Please contact me for access to these components. ##
 
 ## Installation
 
@@ -96,14 +95,9 @@ To set up PulmoPredict locally, follow these steps:
 - **Mobile Application**: Developing a mobile app to increase accessibility, allowing users to get predictions on the go.
 - **Collaboration with Healthcare Institutions**: Partnering with hospitals and clinics to integrate PulmoPredict into their diagnostic processes, ensuring more patients benefit from early detection.
 
-## Contributing
+## Submission for MediHacks
 
-Contributions are welcome! Please open an issue or submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the MIT License.
+This project was developed and submitted for MediHacks, aimed at leveraging technology to improve healthcare outcomes, specifically in the early detection of lung cancer.
 
 ## Contact
-
 For any questions or inquiries, please contact me at [sahithianala2003@gmail.com](mailto:sahithianala2003@gmail.com).
